@@ -1,0 +1,27 @@
+name: Update Dynamic Badges
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Обновление каждые 6 часов
+  workflow_dispatch: # Позволяет запускать вручную
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get repository count
+        id: repo-count
+        run: |
+          COUNT=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          "https://api.github.com/users/ElLatuk" | jq -r '.public_repos')
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Create Repo Count Badge
+        uses: schneegans/dynamic-badges-action@v1.7.0
+        with:
+          auth: ${{ secrets.GIST_TOKEN }}
+          gistID: ВСТАВЬТЕ_ВАШ_GIST_ID
+          filename: repo-badge.json
+          label: "📂 Репозитории"
+          message: ${{ steps.repo-count.outputs.count }}
+          color: "3b82f6"
+          style: "flat-square"
