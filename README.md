@@ -1,17 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&text=ellatuk&reversal=false&fontColor=ffffff&fontAlign=50&section=header&color=0:1e3a8a,50:3b82f6,100:93c5fd&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=ellatuk&reversal=false&fontColor=ffffff&fontAlign=50&fontSize=34&section=header&color=0:1e3a8a,50:3b82f6,100:93c5fd&animation=fadeIn" />
 </p>
-
 <h2 align="center">👋 Привет! Я ellatuk / Латук / Karim Kumbosar</h2>
 <h4 align="center">Её величество 🍃</h4>
 <p align="center">
   <i>Разработчик игр в Roblox | неПрограммист | Создатель YouTube контента</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ElLatuk&color=3b82f6&style=flat" alt="Просмотры профиля" />
-</p>
-
 ---
 
 ### 📍 Обо мне
@@ -85,24 +79,18 @@
   </a>
 </p>
 
-### 📊 Некоторая статистика
+### 📊 Моя статистика
 <p align="center">
-  <a href="https://github.com/ElLatuk?tab=repositories">
-    <img alt="Репозитории" src="https://img.shields.io/badge/Репозитории-4-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/ElLatuk?tab=stars">
-    <img alt="Звезды" src="https://img.shields.io/badge/Звёзды-1-yellow?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/ElLatuk?tab=followers">
-    <img alt="Подписчики" src="https://img.shields.io/badge/Подписчики-1-green?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://github.com/ellatuk?tab=stars"><img src="https://img.shields.io/github/stars/ellatuk?style=flat&color=3b82f6&logo=apachespark&logoColor=edc145" /></a>
+  <a href="https://github.com/ellatuk?tab=followers"><img src="https://img.shields.io/github/followers/ellatuk?style=flat&color=3b82f6" /></a>
+  <a href="https://github.com/ellatuk?tab=repositories"><img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/ellatuk/e5b52775a14ad67bd218a6e3c9fb095e/raw/repo-badge.json" alt="Репозитории" /></a>
+  <br>
+  <a href="https://www.youtube.com/@ellatuk"><img src="https://img.shields.io/youtube/channel/subscribers/UCUBFoO6N_laSqktctNeuRRw?style=flat&logo=youtube&logoColor=ff0036&color=ff0036" /></a>
+  <a href="https://github.com/ellatuk"><img src="https://komarev.com/ghpvc/?username=ellatuk&label=👁️&style=flat&color=3b82f6" /></a>
 </p>
 
----
+<sub><i>⭐ — звёзды на GitHub, 👥 — подписчики, 📂 — репозитории, 📺 — YouTube, 👁️ — просмотры профиля</i></sub>
 
-<p align="center">
-  <i>Если что-то работает — не трогай.</i> ✨
-</p>
 <!--
 **ElLatuk/ElLatuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
