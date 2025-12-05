@@ -6,33 +6,12 @@
 <p align="center">
   <i>Разработчик игр в Roblox | неПрограммист | Создатель YouTube контента</i>
 </p>
----
 
 ### 📍 Обо мне
 - 🎮 **Деятельность:** снимаю/стримлю, фотографирую, перевожу разное, разрабатываю мелочи жизни и игры в Roblox (иногда).
 - 🌱 **"Подучиваю":** Python и Roblox Lua, CSS хз я вру.
 - 🤔 **Философия:** "Я не программист"
-- 📬 **Как связаться:** Discord: **ellatuk** (лучше не спамить).
-
-### 🛠️ Чото-там программистское 
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <!-- Lua -->
-  <a href="https://www.lua.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  </a>
-  <!-- Roblox -->
-  <a href="https://developer.roblox.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
-  </a>
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+- 📬 **Как связаться:** Discord: **ellatuk** (лучше не спамить окда?).
 
 ### 🎮 Мои игры в Roblox
 <p align="left">
