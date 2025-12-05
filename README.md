@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=ellatuk&reversal=false&fontColor=ffffff&fontAlign=50&fontSize=34&section=header&color=0:1e3a8a,50:3b82f6,100:93c5fd&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:1e3a8a,50:3b82f6,100:93c5fd&text=ellatuk&fontColor=FFFFFF&fontAlign=50&fontSize=50" />
 </p>
 <h2 align="center">👋 Привет! Я ellatuk / Латук / Karim Kumbosar</h2>
 <h4 align="center">Её величество 🍃</h4>
